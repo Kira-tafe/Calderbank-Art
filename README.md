@@ -6,7 +6,7 @@ This project showcases a real-world client site designed to display and sell art
 HTML5, CSS3, PHP (theme customization)<br>
 Bootstrap (for layout and responsiveness)<br>
 
-📂 Features
-🎨 Custom supernatural-themed design with celestial accents
-🖼️ Artwork gallery with masonry layout
-📱 Responsive layout with Bootstrap grid
+📂 Features<br>
+🎨 Custom supernatural-themed design with celestial accents<br>
+🖼️ Artwork gallery with masonry layout<br>
+📱 Responsive layout with Bootstrap grid<br>
